@@ -1,6 +1,6 @@
 {
   "name": "project-os-for-codex",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Open-source control plane for Codex projects: Git-backed context, visible agent progress, scoped MCP access, resumable work, and safe handoffs.",
   "main": "src/index.ts",
   "scripts": {
